@@ -1,4 +1,4 @@
-# Game Dev Sudy: Prototype 3
+# Game Dev Study: Prototype 3
 This is a simple recreation of the board game Quarto in Unity that was actually meant to be a fully-fleshed out project but it turned out to be just a study subject for online gaming and networking.
 
 ![Prototype Image](https://github.com/lcscout/GDSTD-Prototype-3/blob/main/thumbnail.png "Prototype Image")
