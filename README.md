@@ -3,7 +3,7 @@ This is a simple recreation of the board game Quarto in Unity that was actually 
 
 ![Prototype Image](https://github.com/lcscout/GDSTD-Prototype-3/blob/main/thumbnail.png "Prototype Image")
 
-If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/gdstd3).
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.dev/projects/gdstd3).
 
 ## Download
 Since I shut down the game server I don't see a point in publishing a demo/release, but you can build it from a clone and play on your own server.
@@ -15,4 +15,4 @@ I mainly used [LRM](https://github.com/Derek-R-S/Light-Reflective-Mirror) with M
 This project requires Unity3D (2020.3+) to build and run. Clone this repository and open the "Quarto" folder in Unity.
 
 ## Credits
-Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.me). Open sourced under the [MIT](https://github.com/lcscout/gdstd-3-unity/blob/main/LICENSE) license ❤️.
+Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.dev). Open sourced under the [MIT](https://github.com/lcscout/gdstd-3-unity/blob/main/LICENSE) license ❤️.
